@@ -21,8 +21,8 @@
 1. Run the following commands:
 
     ```bash
-    g++ -o hellocpp hello.cpp
-    ./hellocpp
+    g++ -o hellopp hello.cpp
+    ./hellopp
     ```
 
 ## Output
