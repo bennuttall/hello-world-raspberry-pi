@@ -4,7 +4,7 @@
 
 1. Enter the following code:
 
-    ```bash
+    ```perl
     print "Hello world\n"
     ```
 

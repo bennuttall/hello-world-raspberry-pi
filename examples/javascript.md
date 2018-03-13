@@ -8,7 +8,7 @@
 
 1. Enter the following code:
 
-    ```python
+    ```javascript
     console.log("Hello world")
     ```
 
