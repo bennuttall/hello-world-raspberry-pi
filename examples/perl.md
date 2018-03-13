@@ -15,7 +15,7 @@
 1. Run the following command:
 
     ```bash
-    perl hello.sh
+    perl hello.pl
     ```
 
 ## Output
