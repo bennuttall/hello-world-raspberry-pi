@@ -12,4 +12,4 @@
 
 ## Output
 
-![](images/ruby-1.png)
+![](images/sonic-pi-1.png)
