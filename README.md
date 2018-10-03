@@ -27,7 +27,7 @@ Other:
 - [Minecraft (Python)](examples/minecraft.md)
 - Pygame (Python)
 - Pygame Zero (Python)
-- Tkinter (Python)
+- [Tkinter (Python)](examples/tkinter.md)
 - [Sense HAT Emulator](examples/sense-emu.md) (Python)
 - Picamera text overlay (Python)
 - GPIO (Python)
