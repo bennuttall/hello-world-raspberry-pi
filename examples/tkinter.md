@@ -1,6 +1,6 @@
-# Tkinter (Python 2)
+# Tkinter (Python 3)
 
-1. Open **Python 2 (IDLE)** from the main menu
+1. Open **Thonny** from the main menu
 
 1. Click **File** -> **New File**
 
